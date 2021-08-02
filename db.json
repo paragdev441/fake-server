@@ -1,0 +1,34 @@
+{
+  "thoughts": [
+      {
+        "id": 5,
+        "name": "Presentation on Redux over Context API",
+        "thought": "Discussion related to implementation of Undo/Redo with Redux over Context API.",
+        "__typename": "thought"
+      },
+      {
+        "id": 3,
+        "name": "Working on the frontend of Smarthouse project",
+        "thought": "Integrating REST APIs, Configuring redux code, and adding support for Web sockets",
+        "__typename": "thought"
+      },
+      {
+        "id": 4,
+        "name": "Helping the new Intern",
+        "thought": "Introduce to TemplateToster and provide E-Books for WPF & XAML",
+        "__typename": "thought"
+      },
+      {
+        "id": 1,
+        "name": "Setting up backend of TemplateToaster",
+        "thought": "Asking DB file from John and setting up the phpmyadmin on my system",
+        "__typename": "thought"
+      },
+      {
+        "id": 2,
+        "name": "Meeting with Clark related to Fastlane project",
+        "thought": "Discussion on converting the Express code with the Next",
+        "__typename": "thought"
+      }
+    ]
+}
